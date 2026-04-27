@@ -1,9 +1,9 @@
-Repo Name
+geoffstratton.github.io
 =========
 
 Description
 ---------------
-Enter your repo instructions here.
+Old WordPress site that used to live on a VPS at geoffstratton.com. Tutorials for Linux, Python, .NET, other subjects. Archived but not updated.
 
 Requirements
 --------------
